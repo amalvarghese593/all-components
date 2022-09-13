@@ -7,3 +7,6 @@
 [submodule "sidebar"]
 	path = sidebar
 	url = https://github.com/amalvarghese593/sidebar
+[submodule "filter"]
+	path = filter
+	url = https://github.com/amalvarghese593/filter
