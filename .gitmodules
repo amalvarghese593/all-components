@@ -1,0 +1,9 @@
+[submodule "confirmationbox"]
+	path = confirmationbox
+	url = https://github.com/amalvarghese593/confirmation-box
+[submodule "sidemenu"]
+	path = sidemenu
+	url = https://github.com/amalvarghese593/sidemenu
+[submodule "sidebar"]
+	path = sidebar
+	url = https://github.com/amalvarghese593/sidebar
