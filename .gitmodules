@@ -10,3 +10,15 @@
 [submodule "filter"]
 	path = filter
 	url = https://github.com/amalvarghese593/filter
+[submodule "calendar"]
+	path = calendar
+	url = https://github.com/amalvarghese593/calendar
+[submodule "switch-hui"]
+	path = switch-hui
+	url = https://github.com/amalvarghese593/switch-hui
+[submodule "popover-headlessui-withonHover"]
+	path = popover-headlessui-withonHover
+	url = https://github.com/amalvarghese593/popover-headlessui-withonHover
+[submodule "combobox"]
+	path = combobox
+	url = https://github.com/amalvarghese593/combobox-new
