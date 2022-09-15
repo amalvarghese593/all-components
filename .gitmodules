@@ -22,3 +22,6 @@
 [submodule "combobox"]
 	path = combobox
 	url = https://github.com/amalvarghese593/combobox-new
+[submodule "tag-input"]
+	path = tag-input
+	url = https://github.com/amalvarghese593/tag-chip-input
