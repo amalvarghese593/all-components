@@ -28,3 +28,6 @@
 [submodule "combobox-latest"]
 	path = combobox-latest
 	url = https://github.com/amalvarghese593/combobox-latest
+[submodule "tags-chips-input"]
+	path = tags-chips-input
+	url = https://github.com/amalvarghese593/tag-chip-input
