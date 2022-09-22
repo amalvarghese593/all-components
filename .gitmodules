@@ -31,3 +31,6 @@
 [submodule "tags-chips-input"]
 	path = tags-chips-input
 	url = https://github.com/amalvarghese593/tag-chip-input
+[submodule "tags-chip-input-latest"]
+	path = tags-chip-input-latest
+	url = https://github.com/amalvarghese593/tag-chip-input
