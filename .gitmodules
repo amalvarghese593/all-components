@@ -34,3 +34,6 @@
 [submodule "tags-chip-input-latest"]
 	path = tags-chip-input-latest
 	url = https://github.com/amalvarghese593/tag-chip-input
+[submodule "editable-form"]
+	path = editable-form
+	url = https://github.com/amalvarghese593/editable-form
