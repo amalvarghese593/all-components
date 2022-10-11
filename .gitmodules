@@ -22,18 +22,15 @@
 [submodule "combobox"]
 	path = combobox
 	url = https://github.com/amalvarghese593/combobox-new
-[submodule "tag-chip-input"]
-	path = tag-chip-input
-	url = https://github.com/amalvarghese593/tag-chip-input
 [submodule "combobox-latest"]
 	path = combobox-latest
 	url = https://github.com/amalvarghese593/combobox-latest
-[submodule "tags-chips-input"]
-	path = tags-chips-input
-	url = https://github.com/amalvarghese593/tag-chip-input
-[submodule "tags-chip-input-latest"]
-	path = tags-chip-input-latest
-	url = https://github.com/amalvarghese593/tag-chip-input
 [submodule "editable-form"]
 	path = editable-form
 	url = https://github.com/amalvarghese593/editable-form
+[submodule "timer-with-delay"]
+	path = timer-with-delay
+	url = https://github.com/amalvarghese593/timer-with-30-min-delay
+[submodule "tag-chip-input-new"]
+	path = tag-chip-input-new
+	url = https://github.com/amalvarghese593/tag-chip-input
